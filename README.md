@@ -14,5 +14,4 @@ Libraries used
 - Pandas
 - Selenium
 - Matplotlib
-- Seaborn
-- Requests 
+- Seaborn 
