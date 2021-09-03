@@ -10,5 +10,6 @@ vs. 1-month HIBOR rate (the mortgage interest rate taken up by most Hong Kong ho
 
 ![image](https://user-images.githubusercontent.com/88300732/131978031-e146afa5-c80a-4588-afbc-9ae459a515f2.png)
 
-
-
+Libraries used
+- Pandas
+- Selenium 
