@@ -12,4 +12,7 @@ vs. 1-month HIBOR rate (the mortgage interest rate taken up by most Hong Kong ho
 
 Libraries used
 - Pandas
-- Selenium 
+- Selenium
+- Matplotlib
+- Seaborn
+- Requests 
